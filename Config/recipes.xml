@@ -1,0 +1,31 @@
+<Rinsan>
+    <append xpath="/recipes">
+        <!-- 一盒 .44 马格南子弹 -->
+        <recipe name="ammoBundle44MagnumBulletBall" count="1" craft_area="workbench" craft_time="120" always_unlocked="true" tags="workbenchCrafting">
+            <ingredient name="resourceGunPowder" count="200"/>
+            <ingredient name="resourceBulletTip" count="100"/>
+            <ingredient name="resourceBulletCasing" count="100"/>
+        </recipe>
+
+        <!-- 一盒霰弹 -->
+        <recipe name="ammoBundleShotgunShell" count="1" craft_area="workbench" craft_time="120" always_unlocked="true" tags="workbenchCrafting">
+            <ingredient name="resourceGunPowder" count="200"/>
+            <ingredient name="resourceBulletTip" count="100"/>
+            <ingredient name="resourceBulletCasing" count="100"/>
+        </recipe>
+
+        <!-- 一盒 9mm 子弹 -->
+        <recipe name="ammoBundle9mmBulletBall" count="1" craft_area="workbench" craft_time="120" always_unlocked="true" tags="workbenchCrafting">
+            <ingredient name="resourceGunPowder" count="200"/>
+            <ingredient name="resourceBulletTip" count="100"/>
+            <ingredient name="resourceBulletCasing" count="100"/>
+        </recipe>
+
+        <!-- 一盒 7.62 mm 子弹 -->
+        <recipe name="ammoBundle762mmBulletBall" count="1" craft_area="workbench" craft_time="120" always_unlocked="true" tags="workbenchCrafting">
+            <ingredient name="resourceGunPowder" count="200"/>
+            <ingredient name="resourceBulletTip" count="100"/>
+            <ingredient name="resourceBulletCasing" count="100"/>
+        </recipe>
+    </append>
+</Rinsan>

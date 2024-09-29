@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="RinsanRecipeMod" />
+	<DisplayName value="群友配方补充模组"/>
+	<Description value="根据需要补充合适的配方" />
+	<Author value="Rinsan" />
+	<Version value="1.0" />
+	<Website value="http://7daystodie.com" />
+</xml>
